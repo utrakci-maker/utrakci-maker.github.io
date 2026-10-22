@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["Y3UPVM6FFW.com.hasabtak.app"],
+        "components": [
+          { "/": "/hasabtak/c.html" },
+          { "/": "/hasabtak/j.html" },
+          { "/": "/hasabtak/o.html" }
+        ]
+      }
+    ]
+  }
+}
